@@ -11,7 +11,7 @@ dependencies:
     sdk: flutter
   cupertino_icons: ^1.0.8
   path_provider: ^2.1.5
-  syncfusion_flutter_pdfviewer: ^28.1.33
+  path: ^1.9.1
   pdfx: ^2.8.0
   http: ^1.2.2
 
